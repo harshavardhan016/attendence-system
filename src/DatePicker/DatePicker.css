@@ -1,0 +1,16 @@
+/* components/DatePicker.css */
+.date-picker {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
+  .date-picker h2 {
+    margin-top: 0;
+  }
+  
+  .date-picker input {
+    padding: 5px;
+    border: 1px solid #ccc;
+  }
+  

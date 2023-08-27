@@ -1,0 +1,15 @@
+/* components/AttendanceMarker.css */
+.attendance-marker {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-top: 20px;
+  }
+  
+  .attendance-marker h2 {
+    margin-top: 0;
+  }
+  
+  .attendance-marker ul {
+    padding: 0;
+  }
+  
