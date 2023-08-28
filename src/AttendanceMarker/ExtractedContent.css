@@ -1,0 +1,13 @@
+/* ExtractedContent.css */
+.extracted-content {
+    background-color: yellow;
+    display: inline-block;
+    padding: 5px;
+    border: 2px solid black;
+    font-weight: bold;
+  }
+  
+  .extracted-content span {
+    color: black;
+  }
+  

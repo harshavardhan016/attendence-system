@@ -1,14 +1,28 @@
-/* App.css */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  background-image: url("./attendenceimage.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
 .App {
   text-align: center;
   padding: 20px;
+  color: white;
 }
 
 h1 {
+  font-size: 36px;
   margin-bottom: 20px;
+  color: black; /* Add this line to set the heading color to black */
 }
 
-ul {
-  list-style-type: none;
-  padding: 0;
+/* DatePicker and ClassList styles go here */
+
+.AttendanceMarker {
+  margin-top: 20px;
 }
